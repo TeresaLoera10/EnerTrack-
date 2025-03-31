@@ -1,0 +1,6483 @@
+[
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 838.08,
+        "Costo_MXN": 1819.97
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Casa",
+        "Consumo_kWh": 147.99,
+        "Costo_MXN": 222.07
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 269.26,
+        "Costo_MXN": 471.22
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 197.84,
+        "Costo_MXN": 313.75
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 527.94,
+        "Costo_MXN": 659.42
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Banco",
+        "Consumo_kWh": 834.74,
+        "Costo_MXN": 1290.01
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 401.32,
+        "Costo_MXN": 561.88
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 922.86,
+        "Costo_MXN": 1850.96
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 707.48,
+        "Costo_MXN": 1299.12
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 577.53,
+        "Costo_MXN": 1318.19
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 219.05,
+        "Costo_MXN": 516.85
+    },
+    {
+        "Fecha": "2025-01-01",
+        "Tipo": "CFE",
+        "Consumo_kWh": 399.65,
+        "Costo_MXN": 786.78
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 921.74,
+        "Costo_MXN": 1218.27
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Casa",
+        "Consumo_kWh": 99.17,
+        "Costo_MXN": 163.75
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 170.52,
+        "Costo_MXN": 323.19
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 639.96,
+        "Costo_MXN": 887.22
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 713.14,
+        "Costo_MXN": 1021.1
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Banco",
+        "Consumo_kWh": 245.35,
+        "Costo_MXN": 399.05
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 133.67,
+        "Costo_MXN": 294.5
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 647.39,
+        "Costo_MXN": 1002.19
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 594.38,
+        "Costo_MXN": 803.26
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 963.86,
+        "Costo_MXN": 2119.85
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 995.09,
+        "Costo_MXN": 1739.34
+    },
+    {
+        "Fecha": "2025-01-02",
+        "Tipo": "CFE",
+        "Consumo_kWh": 168.36,
+        "Costo_MXN": 230.94
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 213.31,
+        "Costo_MXN": 367.66
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Casa",
+        "Consumo_kWh": 402.16,
+        "Costo_MXN": 531.82
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 593.56,
+        "Costo_MXN": 1412.77
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 668.98,
+        "Costo_MXN": 996.48
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 773.38,
+        "Costo_MXN": 1517.46
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Banco",
+        "Consumo_kWh": 536.23,
+        "Costo_MXN": 942.03
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 625.28,
+        "Costo_MXN": 1409.58
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 671.74,
+        "Costo_MXN": 1097.84
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 781.44,
+        "Costo_MXN": 1091.65
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 573.6,
+        "Costo_MXN": 1169.29
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 950.53,
+        "Costo_MXN": 1464.85
+    },
+    {
+        "Fecha": "2025-01-03",
+        "Tipo": "CFE",
+        "Consumo_kWh": 638.35,
+        "Costo_MXN": 1334.53
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 860.5,
+        "Costo_MXN": 1080.27
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Casa",
+        "Consumo_kWh": 483.99,
+        "Costo_MXN": 1189.77
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 206.89,
+        "Costo_MXN": 263.43
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 767.52,
+        "Costo_MXN": 1451.01
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 431.91,
+        "Costo_MXN": 661.98
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Banco",
+        "Consumo_kWh": 817.01,
+        "Costo_MXN": 1811.7
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 140.25,
+        "Costo_MXN": 189.8
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 990.19,
+        "Costo_MXN": 2341.53
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 887.54,
+        "Costo_MXN": 2156.81
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 512.96,
+        "Costo_MXN": 641.23
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 292.58,
+        "Costo_MXN": 607.22
+    },
+    {
+        "Fecha": "2025-01-04",
+        "Tipo": "CFE",
+        "Consumo_kWh": 668.41,
+        "Costo_MXN": 1217.85
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 979.37,
+        "Costo_MXN": 1399.02
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Casa",
+        "Consumo_kWh": 955.17,
+        "Costo_MXN": 1726.38
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 606.22,
+        "Costo_MXN": 1221.94
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 530.57,
+        "Costo_MXN": 1176.54
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 190.79,
+        "Costo_MXN": 348.09
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Banco",
+        "Consumo_kWh": 713.76,
+        "Costo_MXN": 1288.18
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 380.62,
+        "Costo_MXN": 681.65
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 720.08,
+        "Costo_MXN": 1056.95
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 605.91,
+        "Costo_MXN": 806.03
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 127.74,
+        "Costo_MXN": 305.45
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 967.42,
+        "Costo_MXN": 2262.17
+    },
+    {
+        "Fecha": "2025-01-05",
+        "Tipo": "CFE",
+        "Consumo_kWh": 956.56,
+        "Costo_MXN": 2114.64
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 549.97,
+        "Costo_MXN": 770.35
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Casa",
+        "Consumo_kWh": 62.67,
+        "Costo_MXN": 144.28
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 469.59,
+        "Costo_MXN": 884.72
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 732.96,
+        "Costo_MXN": 1502.85
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 793.11,
+        "Costo_MXN": 1716.18
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Banco",
+        "Consumo_kWh": 854.24,
+        "Costo_MXN": 1948.82
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 461.86,
+        "Costo_MXN": 1125.84
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 287.65,
+        "Costo_MXN": 528.06
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 573.21,
+        "Costo_MXN": 887.38
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 504.89,
+        "Costo_MXN": 1139.46
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 263.71,
+        "Costo_MXN": 486.95
+    },
+    {
+        "Fecha": "2025-01-06",
+        "Tipo": "CFE",
+        "Consumo_kWh": 867.96,
+        "Costo_MXN": 1975.96
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 559.24,
+        "Costo_MXN": 918.92
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Casa",
+        "Consumo_kWh": 346.02,
+        "Costo_MXN": 432.38
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 444.63,
+        "Costo_MXN": 539.3
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 729.65,
+        "Costo_MXN": 1410.76
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 703.2,
+        "Costo_MXN": 1638.17
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Banco",
+        "Consumo_kWh": 540.97,
+        "Costo_MXN": 873.19
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 997.49,
+        "Costo_MXN": 1269.87
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 346.62,
+        "Costo_MXN": 757.82
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 712.07,
+        "Costo_MXN": 1036.67
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 548.77,
+        "Costo_MXN": 793.18
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 214.87,
+        "Costo_MXN": 355.17
+    },
+    {
+        "Fecha": "2025-01-07",
+        "Tipo": "CFE",
+        "Consumo_kWh": 221.2,
+        "Costo_MXN": 552.42
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 361.87,
+        "Costo_MXN": 666.03
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Casa",
+        "Consumo_kWh": 350.09,
+        "Costo_MXN": 601.17
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 987.3,
+        "Costo_MXN": 1230.5
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 143.39,
+        "Costo_MXN": 249.38
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 127.09,
+        "Costo_MXN": 271.56
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Banco",
+        "Consumo_kWh": 147.36,
+        "Costo_MXN": 184.42
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 318.4,
+        "Costo_MXN": 677.75
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 88.07,
+        "Costo_MXN": 199.35
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 157.76,
+        "Costo_MXN": 288.33
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 90.5,
+        "Costo_MXN": 185.87
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 161.41,
+        "Costo_MXN": 215.42
+    },
+    {
+        "Fecha": "2025-01-08",
+        "Tipo": "CFE",
+        "Consumo_kWh": 304.47,
+        "Costo_MXN": 472.11
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 86.56,
+        "Costo_MXN": 133.98
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Casa",
+        "Consumo_kWh": 127.08,
+        "Costo_MXN": 219.3
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 403.43,
+        "Costo_MXN": 724.68
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 522.09,
+        "Costo_MXN": 906.73
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 382.11,
+        "Costo_MXN": 804.58
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Banco",
+        "Consumo_kWh": 791.02,
+        "Costo_MXN": 1801.14
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 618.14,
+        "Costo_MXN": 1212.79
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 412.47,
+        "Costo_MXN": 1024.61
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 145.49,
+        "Costo_MXN": 343.1
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 392.13,
+        "Costo_MXN": 480.48
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 176.38,
+        "Costo_MXN": 232.94
+    },
+    {
+        "Fecha": "2025-01-09",
+        "Tipo": "CFE",
+        "Consumo_kWh": 167.34,
+        "Costo_MXN": 308.57
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 384.78,
+        "Costo_MXN": 955.27
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Casa",
+        "Consumo_kWh": 184.02,
+        "Costo_MXN": 344.12
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 911.08,
+        "Costo_MXN": 1432.04
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 301.45,
+        "Costo_MXN": 609.19
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 344.15,
+        "Costo_MXN": 751.74
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Banco",
+        "Consumo_kWh": 540.28,
+        "Costo_MXN": 1163.08
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 123.58,
+        "Costo_MXN": 271.56
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 337.15,
+        "Costo_MXN": 696.58
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 757.89,
+        "Costo_MXN": 1764.78
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 647.78,
+        "Costo_MXN": 1224.45
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 798.38,
+        "Costo_MXN": 1538.54
+    },
+    {
+        "Fecha": "2025-01-10",
+        "Tipo": "CFE",
+        "Consumo_kWh": 425.44,
+        "Costo_MXN": 642.56
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 542.05,
+        "Costo_MXN": 897.23
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Casa",
+        "Consumo_kWh": 725.36,
+        "Costo_MXN": 935.76
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 112.59,
+        "Costo_MXN": 173.38
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 409.14,
+        "Costo_MXN": 983.8
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 390.76,
+        "Costo_MXN": 740.83
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Banco",
+        "Consumo_kWh": 852.86,
+        "Costo_MXN": 1437.49
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 644.83,
+        "Costo_MXN": 913.2
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 819.39,
+        "Costo_MXN": 1902.04
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 921.23,
+        "Costo_MXN": 1545.18
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 731.53,
+        "Costo_MXN": 1391.97
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 947.81,
+        "Costo_MXN": 2277.13
+    },
+    {
+        "Fecha": "2025-01-11",
+        "Tipo": "CFE",
+        "Consumo_kWh": 536.2,
+        "Costo_MXN": 1335.21
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 769.17,
+        "Costo_MXN": 1258.85
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Casa",
+        "Consumo_kWh": 544.75,
+        "Costo_MXN": 845.54
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 885.66,
+        "Costo_MXN": 1903.24
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 865.71,
+        "Costo_MXN": 1545.57
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 145.85,
+        "Costo_MXN": 298.09
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Banco",
+        "Consumo_kWh": 264.57,
+        "Costo_MXN": 493.09
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 382.11,
+        "Costo_MXN": 825.59
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 246.51,
+        "Costo_MXN": 552.54
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 535.51,
+        "Costo_MXN": 759.82
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 500.45,
+        "Costo_MXN": 739.57
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 675.25,
+        "Costo_MXN": 939.22
+    },
+    {
+        "Fecha": "2025-01-12",
+        "Tipo": "CFE",
+        "Consumo_kWh": 858.98,
+        "Costo_MXN": 1142.71
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 714.75,
+        "Costo_MXN": 996.53
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Casa",
+        "Consumo_kWh": 122.9,
+        "Costo_MXN": 246.94
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 513.63,
+        "Costo_MXN": 1112.62
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 888.37,
+        "Costo_MXN": 1471.68
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 334.37,
+        "Costo_MXN": 827.81
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Banco",
+        "Consumo_kWh": 646.77,
+        "Costo_MXN": 1458.84
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 910.49,
+        "Costo_MXN": 2034.75
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 301.9,
+        "Costo_MXN": 624.79
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 808.82,
+        "Costo_MXN": 1718.94
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 391.5,
+        "Costo_MXN": 532.63
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 731.52,
+        "Costo_MXN": 942.06
+    },
+    {
+        "Fecha": "2025-01-13",
+        "Tipo": "CFE",
+        "Consumo_kWh": 973.11,
+        "Costo_MXN": 1701.68
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 847.89,
+        "Costo_MXN": 1338.72
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Casa",
+        "Consumo_kWh": 351.65,
+        "Costo_MXN": 423.21
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 782.34,
+        "Costo_MXN": 1464.71
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 256.77,
+        "Costo_MXN": 458.6
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 223.52,
+        "Costo_MXN": 302.48
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Banco",
+        "Consumo_kWh": 804.62,
+        "Costo_MXN": 1672.5
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 182.21,
+        "Costo_MXN": 416.11
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 475.83,
+        "Costo_MXN": 920.13
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 808.68,
+        "Costo_MXN": 1559.09
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 261.53,
+        "Costo_MXN": 377.82
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 315.23,
+        "Costo_MXN": 398.56
+    },
+    {
+        "Fecha": "2025-01-14",
+        "Tipo": "CFE",
+        "Consumo_kWh": 306.64,
+        "Costo_MXN": 721.83
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 248.99,
+        "Costo_MXN": 351.29
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Casa",
+        "Consumo_kWh": 244.16,
+        "Costo_MXN": 427.04
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 448.79,
+        "Costo_MXN": 706.79
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 289.24,
+        "Costo_MXN": 619.37
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 584.12,
+        "Costo_MXN": 1442.7
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Banco",
+        "Consumo_kWh": 939.12,
+        "Costo_MXN": 2329.38
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 548.21,
+        "Costo_MXN": 1176.19
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 448.97,
+        "Costo_MXN": 847.02
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 675.35,
+        "Costo_MXN": 965.03
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 551.4,
+        "Costo_MXN": 730.3
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 646.31,
+        "Costo_MXN": 1295.79
+    },
+    {
+        "Fecha": "2025-01-15",
+        "Tipo": "CFE",
+        "Consumo_kWh": 270.82,
+        "Costo_MXN": 597.93
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 770.95,
+        "Costo_MXN": 1572.59
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Casa",
+        "Consumo_kWh": 939.16,
+        "Costo_MXN": 2236.2
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 943.85,
+        "Costo_MXN": 1912.11
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 779.11,
+        "Costo_MXN": 1938.62
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 377.59,
+        "Costo_MXN": 656.3
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Banco",
+        "Consumo_kWh": 565.02,
+        "Costo_MXN": 985.46
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 784.31,
+        "Costo_MXN": 1559.39
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 826.02,
+        "Costo_MXN": 1729.69
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 441.68,
+        "Costo_MXN": 623.54
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 977.78,
+        "Costo_MXN": 1816.75
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 266.49,
+        "Costo_MXN": 543.37
+    },
+    {
+        "Fecha": "2025-01-16",
+        "Tipo": "CFE",
+        "Consumo_kWh": 605.82,
+        "Costo_MXN": 1088.33
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 313.22,
+        "Costo_MXN": 686.24
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Casa",
+        "Consumo_kWh": 846.43,
+        "Costo_MXN": 1692.12
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 202.05,
+        "Costo_MXN": 377.49
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 61.52,
+        "Costo_MXN": 79.04
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 363.61,
+        "Costo_MXN": 737.27
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Banco",
+        "Consumo_kWh": 396.16,
+        "Costo_MXN": 954.85
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 293.46,
+        "Costo_MXN": 731.65
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 899.36,
+        "Costo_MXN": 2192.96
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 795.22,
+        "Costo_MXN": 1547.1
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 530.96,
+        "Costo_MXN": 1263.02
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 933.45,
+        "Costo_MXN": 1225.49
+    },
+    {
+        "Fecha": "2025-01-17",
+        "Tipo": "CFE",
+        "Consumo_kWh": 131.54,
+        "Costo_MXN": 215.74
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 661.48,
+        "Costo_MXN": 1053.99
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Casa",
+        "Consumo_kWh": 828.71,
+        "Costo_MXN": 1767.94
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 788.19,
+        "Costo_MXN": 1206.95
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 492.95,
+        "Costo_MXN": 852.14
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 694.19,
+        "Costo_MXN": 1011.46
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Banco",
+        "Consumo_kWh": 855.65,
+        "Costo_MXN": 1059.0
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 86.06,
+        "Costo_MXN": 117.46
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 321.77,
+        "Costo_MXN": 488.52
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 618.19,
+        "Costo_MXN": 826.84
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 759.76,
+        "Costo_MXN": 1208.56
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 887.35,
+        "Costo_MXN": 1765.46
+    },
+    {
+        "Fecha": "2025-01-18",
+        "Tipo": "CFE",
+        "Consumo_kWh": 311.22,
+        "Costo_MXN": 409.19
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 59.44,
+        "Costo_MXN": 138.9
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Casa",
+        "Consumo_kWh": 692.78,
+        "Costo_MXN": 1472.25
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 988.15,
+        "Costo_MXN": 2452.53
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 475.02,
+        "Costo_MXN": 1081.22
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 97.34,
+        "Costo_MXN": 220.84
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Banco",
+        "Consumo_kWh": 658.37,
+        "Costo_MXN": 1449.08
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 927.41,
+        "Costo_MXN": 2240.47
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 935.78,
+        "Costo_MXN": 1998.25
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 562.4,
+        "Costo_MXN": 874.86
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 483.26,
+        "Costo_MXN": 591.08
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 756.21,
+        "Costo_MXN": 1272.27
+    },
+    {
+        "Fecha": "2025-01-19",
+        "Tipo": "CFE",
+        "Consumo_kWh": 905.5,
+        "Costo_MXN": 2186.63
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 551.3,
+        "Costo_MXN": 1107.16
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Casa",
+        "Consumo_kWh": 368.63,
+        "Costo_MXN": 880.68
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 632.94,
+        "Costo_MXN": 930.22
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 869.41,
+        "Costo_MXN": 1626.86
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 512.27,
+        "Costo_MXN": 1077.86
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Banco",
+        "Consumo_kWh": 205.23,
+        "Costo_MXN": 396.26
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 332.68,
+        "Costo_MXN": 741.86
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 142.02,
+        "Costo_MXN": 224.9
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 755.39,
+        "Costo_MXN": 1411.92
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 285.32,
+        "Costo_MXN": 631.7
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 78.67,
+        "Costo_MXN": 189.64
+    },
+    {
+        "Fecha": "2025-01-20",
+        "Tipo": "CFE",
+        "Consumo_kWh": 673.11,
+        "Costo_MXN": 1350.22
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 810.27,
+        "Costo_MXN": 1780.64
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Casa",
+        "Consumo_kWh": 901.85,
+        "Costo_MXN": 1567.42
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 169.69,
+        "Costo_MXN": 308.59
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 875.66,
+        "Costo_MXN": 1487.32
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 953.32,
+        "Costo_MXN": 1152.5
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Banco",
+        "Consumo_kWh": 663.29,
+        "Costo_MXN": 1345.35
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 693.75,
+        "Costo_MXN": 1157.14
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 650.76,
+        "Costo_MXN": 1453.02
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 437.94,
+        "Costo_MXN": 913.37
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 953.02,
+        "Costo_MXN": 1731.97
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 823.74,
+        "Costo_MXN": 1937.43
+    },
+    {
+        "Fecha": "2025-01-21",
+        "Tipo": "CFE",
+        "Consumo_kWh": 850.84,
+        "Costo_MXN": 1502.54
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 926.6,
+        "Costo_MXN": 2282.88
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Casa",
+        "Consumo_kWh": 563.2,
+        "Costo_MXN": 1264.84
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 650.45,
+        "Costo_MXN": 811.94
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 606.67,
+        "Costo_MXN": 1438.5
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 457.35,
+        "Costo_MXN": 942.89
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Banco",
+        "Consumo_kWh": 181.05,
+        "Costo_MXN": 419.64
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 383.83,
+        "Costo_MXN": 744.07
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 81.97,
+        "Costo_MXN": 98.53
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 601.0,
+        "Costo_MXN": 1372.41
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 827.93,
+        "Costo_MXN": 1900.8
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 508.45,
+        "Costo_MXN": 1055.26
+    },
+    {
+        "Fecha": "2025-01-22",
+        "Tipo": "CFE",
+        "Consumo_kWh": 666.87,
+        "Costo_MXN": 1616.64
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 710.14,
+        "Costo_MXN": 990.11
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Casa",
+        "Consumo_kWh": 718.94,
+        "Costo_MXN": 1528.46
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 75.99,
+        "Costo_MXN": 93.4
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 416.61,
+        "Costo_MXN": 849.75
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 752.67,
+        "Costo_MXN": 1170.98
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Banco",
+        "Consumo_kWh": 559.99,
+        "Costo_MXN": 726.23
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 711.34,
+        "Costo_MXN": 1528.23
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 818.07,
+        "Costo_MXN": 1826.31
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 96.77,
+        "Costo_MXN": 154.7
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 691.41,
+        "Costo_MXN": 1678.7
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 806.83,
+        "Costo_MXN": 1966.42
+    },
+    {
+        "Fecha": "2025-01-23",
+        "Tipo": "CFE",
+        "Consumo_kWh": 625.45,
+        "Costo_MXN": 871.08
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 893.65,
+        "Costo_MXN": 2074.59
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Casa",
+        "Consumo_kWh": 737.2,
+        "Costo_MXN": 1602.06
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 116.02,
+        "Costo_MXN": 156.35
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 508.32,
+        "Costo_MXN": 988.87
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 382.92,
+        "Costo_MXN": 568.25
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Banco",
+        "Consumo_kWh": 746.04,
+        "Costo_MXN": 1115.49
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 205.63,
+        "Costo_MXN": 258.33
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 695.41,
+        "Costo_MXN": 1726.91
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 66.96,
+        "Costo_MXN": 110.2
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 315.59,
+        "Costo_MXN": 379.58
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 666.01,
+        "Costo_MXN": 826.65
+    },
+    {
+        "Fecha": "2025-01-24",
+        "Tipo": "CFE",
+        "Consumo_kWh": 131.63,
+        "Costo_MXN": 212.85
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 391.39,
+        "Costo_MXN": 537.66
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Casa",
+        "Consumo_kWh": 938.16,
+        "Costo_MXN": 2259.46
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 161.81,
+        "Costo_MXN": 224.13
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 742.73,
+        "Costo_MXN": 1420.44
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 711.7,
+        "Costo_MXN": 1518.04
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Banco",
+        "Consumo_kWh": 127.5,
+        "Costo_MXN": 187.94
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 646.16,
+        "Costo_MXN": 963.14
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 864.45,
+        "Costo_MXN": 1205.22
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 491.6,
+        "Costo_MXN": 831.05
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 736.87,
+        "Costo_MXN": 1122.54
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 87.74,
+        "Costo_MXN": 136.11
+    },
+    {
+        "Fecha": "2025-01-25",
+        "Tipo": "CFE",
+        "Consumo_kWh": 696.13,
+        "Costo_MXN": 1687.36
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 944.15,
+        "Costo_MXN": 1673.57
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Casa",
+        "Consumo_kWh": 997.87,
+        "Costo_MXN": 1385.63
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 506.29,
+        "Costo_MXN": 1109.42
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 936.75,
+        "Costo_MXN": 2238.23
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 969.84,
+        "Costo_MXN": 1951.23
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Banco",
+        "Consumo_kWh": 524.47,
+        "Costo_MXN": 652.87
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 443.1,
+        "Costo_MXN": 569.95
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 496.88,
+        "Costo_MXN": 1224.23
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 739.91,
+        "Costo_MXN": 1553.29
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 599.79,
+        "Costo_MXN": 978.42
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 565.11,
+        "Costo_MXN": 1192.44
+    },
+    {
+        "Fecha": "2025-01-26",
+        "Tipo": "CFE",
+        "Consumo_kWh": 233.76,
+        "Costo_MXN": 551.74
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 418.99,
+        "Costo_MXN": 832.03
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Casa",
+        "Consumo_kWh": 287.44,
+        "Costo_MXN": 432.2
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 767.51,
+        "Costo_MXN": 1675.21
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 990.03,
+        "Costo_MXN": 1316.21
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 430.18,
+        "Costo_MXN": 797.63
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Banco",
+        "Consumo_kWh": 642.7,
+        "Costo_MXN": 1536.91
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 425.26,
+        "Costo_MXN": 814.98
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 229.6,
+        "Costo_MXN": 425.17
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 372.12,
+        "Costo_MXN": 671.57
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 238.07,
+        "Costo_MXN": 345.37
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 264.27,
+        "Costo_MXN": 353.46
+    },
+    {
+        "Fecha": "2025-01-27",
+        "Tipo": "CFE",
+        "Consumo_kWh": 325.88,
+        "Costo_MXN": 635.56
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 555.84,
+        "Costo_MXN": 675.61
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Casa",
+        "Consumo_kWh": 604.23,
+        "Costo_MXN": 1052.65
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 720.45,
+        "Costo_MXN": 1759.83
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 688.34,
+        "Costo_MXN": 1241.09
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 183.39,
+        "Costo_MXN": 275.06
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Banco",
+        "Consumo_kWh": 193.66,
+        "Costo_MXN": 313.46
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 842.01,
+        "Costo_MXN": 1397.02
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 359.15,
+        "Costo_MXN": 619.65
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 586.44,
+        "Costo_MXN": 953.04
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 962.51,
+        "Costo_MXN": 1497.96
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 590.0,
+        "Costo_MXN": 1471.64
+    },
+    {
+        "Fecha": "2025-01-28",
+        "Tipo": "CFE",
+        "Consumo_kWh": 590.56,
+        "Costo_MXN": 819.53
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 135.5,
+        "Costo_MXN": 184.44
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Casa",
+        "Consumo_kWh": 350.81,
+        "Costo_MXN": 451.96
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 989.56,
+        "Costo_MXN": 2048.76
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 505.55,
+        "Costo_MXN": 1131.03
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 854.49,
+        "Costo_MXN": 1783.02
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Banco",
+        "Consumo_kWh": 941.03,
+        "Costo_MXN": 2135.67
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 936.49,
+        "Costo_MXN": 2160.95
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 318.26,
+        "Costo_MXN": 731.53
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 91.1,
+        "Costo_MXN": 112.53
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 946.18,
+        "Costo_MXN": 1842.23
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 643.17,
+        "Costo_MXN": 1228.16
+    },
+    {
+        "Fecha": "2025-01-29",
+        "Tipo": "CFE",
+        "Consumo_kWh": 852.75,
+        "Costo_MXN": 1760.22
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 345.93,
+        "Costo_MXN": 853.12
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Casa",
+        "Consumo_kWh": 675.18,
+        "Costo_MXN": 1311.15
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 202.05,
+        "Costo_MXN": 462.51
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 590.01,
+        "Costo_MXN": 819.05
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 617.87,
+        "Costo_MXN": 1425.26
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Banco",
+        "Consumo_kWh": 549.7,
+        "Costo_MXN": 1257.13
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 764.68,
+        "Costo_MXN": 1139.58
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 421.06,
+        "Costo_MXN": 1044.44
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 967.2,
+        "Costo_MXN": 1824.68
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 772.93,
+        "Costo_MXN": 1141.63
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 257.99,
+        "Costo_MXN": 560.16
+    },
+    {
+        "Fecha": "2025-01-30",
+        "Tipo": "CFE",
+        "Consumo_kWh": 285.58,
+        "Costo_MXN": 387.37
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 562.99,
+        "Costo_MXN": 1367.79
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Casa",
+        "Consumo_kWh": 502.18,
+        "Costo_MXN": 1045.14
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 949.45,
+        "Costo_MXN": 1600.45
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 994.26,
+        "Costo_MXN": 2474.32
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 127.06,
+        "Costo_MXN": 184.24
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Banco",
+        "Consumo_kWh": 454.97,
+        "Costo_MXN": 691.18
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 299.39,
+        "Costo_MXN": 563.4
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 998.23,
+        "Costo_MXN": 1655.78
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 804.35,
+        "Costo_MXN": 1159.58
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 236.39,
+        "Costo_MXN": 505.54
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 328.29,
+        "Costo_MXN": 659.19
+    },
+    {
+        "Fecha": "2025-01-31",
+        "Tipo": "CFE",
+        "Consumo_kWh": 363.3,
+        "Costo_MXN": 850.43
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 971.83,
+        "Costo_MXN": 1378.26
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Casa",
+        "Consumo_kWh": 836.47,
+        "Costo_MXN": 1923.21
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 804.32,
+        "Costo_MXN": 1222.0
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 257.3,
+        "Costo_MXN": 527.54
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 161.58,
+        "Costo_MXN": 358.84
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Banco",
+        "Consumo_kWh": 899.78,
+        "Costo_MXN": 1788.68
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 811.81,
+        "Costo_MXN": 1069.6
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 346.28,
+        "Costo_MXN": 660.55
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 633.31,
+        "Costo_MXN": 1099.81
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 739.84,
+        "Costo_MXN": 914.04
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 158.15,
+        "Costo_MXN": 347.95
+    },
+    {
+        "Fecha": "2025-02-01",
+        "Tipo": "CFE",
+        "Consumo_kWh": 805.66,
+        "Costo_MXN": 1031.36
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 512.05,
+        "Costo_MXN": 808.17
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Casa",
+        "Consumo_kWh": 506.29,
+        "Costo_MXN": 1197.79
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 147.47,
+        "Costo_MXN": 247.47
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 337.87,
+        "Costo_MXN": 641.45
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 427.2,
+        "Costo_MXN": 572.77
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Banco",
+        "Consumo_kWh": 126.0,
+        "Costo_MXN": 256.73
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 736.87,
+        "Costo_MXN": 1825.35
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 728.53,
+        "Costo_MXN": 1637.75
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 278.92,
+        "Costo_MXN": 443.98
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 853.45,
+        "Costo_MXN": 1686.26
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 810.19,
+        "Costo_MXN": 1951.63
+    },
+    {
+        "Fecha": "2025-02-02",
+        "Tipo": "CFE",
+        "Consumo_kWh": 731.5,
+        "Costo_MXN": 898.51
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 774.02,
+        "Costo_MXN": 1330.65
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Casa",
+        "Consumo_kWh": 132.96,
+        "Costo_MXN": 175.54
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 93.51,
+        "Costo_MXN": 154.24
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 667.4,
+        "Costo_MXN": 1109.07
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 202.69,
+        "Costo_MXN": 340.76
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Banco",
+        "Consumo_kWh": 174.01,
+        "Costo_MXN": 313.97
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 377.48,
+        "Costo_MXN": 566.93
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 631.02,
+        "Costo_MXN": 1170.41
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 773.33,
+        "Costo_MXN": 1283.95
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 59.4,
+        "Costo_MXN": 95.07
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 600.13,
+        "Costo_MXN": 788.36
+    },
+    {
+        "Fecha": "2025-02-03",
+        "Tipo": "CFE",
+        "Consumo_kWh": 370.91,
+        "Costo_MXN": 777.1
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 690.39,
+        "Costo_MXN": 1019.21
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Casa",
+        "Consumo_kWh": 807.29,
+        "Costo_MXN": 1452.61
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 566.07,
+        "Costo_MXN": 709.24
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 409.6,
+        "Costo_MXN": 918.75
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 673.67,
+        "Costo_MXN": 1530.74
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Banco",
+        "Consumo_kWh": 804.63,
+        "Costo_MXN": 1919.65
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 273.45,
+        "Costo_MXN": 365.07
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 485.05,
+        "Costo_MXN": 701.26
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 654.14,
+        "Costo_MXN": 954.59
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 442.38,
+        "Costo_MXN": 530.91
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 577.02,
+        "Costo_MXN": 773.62
+    },
+    {
+        "Fecha": "2025-02-04",
+        "Tipo": "CFE",
+        "Consumo_kWh": 653.86,
+        "Costo_MXN": 1563.73
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 285.48,
+        "Costo_MXN": 692.73
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Casa",
+        "Consumo_kWh": 336.31,
+        "Costo_MXN": 414.9
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 276.13,
+        "Costo_MXN": 553.58
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 379.51,
+        "Costo_MXN": 834.24
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 960.43,
+        "Costo_MXN": 1713.56
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Banco",
+        "Consumo_kWh": 505.97,
+        "Costo_MXN": 924.67
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 173.94,
+        "Costo_MXN": 262.92
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 721.78,
+        "Costo_MXN": 880.82
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 680.81,
+        "Costo_MXN": 1451.21
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 171.66,
+        "Costo_MXN": 266.79
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 542.98,
+        "Costo_MXN": 1321.45
+    },
+    {
+        "Fecha": "2025-02-05",
+        "Tipo": "CFE",
+        "Consumo_kWh": 846.26,
+        "Costo_MXN": 1623.09
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 918.35,
+        "Costo_MXN": 1652.08
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Casa",
+        "Consumo_kWh": 553.16,
+        "Costo_MXN": 751.11
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 825.9,
+        "Costo_MXN": 1735.46
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 516.17,
+        "Costo_MXN": 996.77
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 518.5,
+        "Costo_MXN": 1127.76
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Banco",
+        "Consumo_kWh": 862.27,
+        "Costo_MXN": 2033.33
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 889.46,
+        "Costo_MXN": 1919.9
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 881.62,
+        "Costo_MXN": 1393.32
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 514.95,
+        "Costo_MXN": 900.93
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 273.24,
+        "Costo_MXN": 477.03
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 491.21,
+        "Costo_MXN": 1104.03
+    },
+    {
+        "Fecha": "2025-02-06",
+        "Tipo": "CFE",
+        "Consumo_kWh": 109.77,
+        "Costo_MXN": 252.19
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 460.28,
+        "Costo_MXN": 580.27
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Casa",
+        "Consumo_kWh": 299.51,
+        "Costo_MXN": 647.72
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 772.28,
+        "Costo_MXN": 1157.02
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 404.42,
+        "Costo_MXN": 509.09
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 81.82,
+        "Costo_MXN": 201.3
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Banco",
+        "Consumo_kWh": 426.1,
+        "Costo_MXN": 908.12
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 645.38,
+        "Costo_MXN": 1187.45
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 690.07,
+        "Costo_MXN": 1094.41
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 388.57,
+        "Costo_MXN": 778.24
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 837.75,
+        "Costo_MXN": 1364.27
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 317.85,
+        "Costo_MXN": 579.95
+    },
+    {
+        "Fecha": "2025-02-07",
+        "Tipo": "CFE",
+        "Consumo_kWh": 936.61,
+        "Costo_MXN": 1825.11
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 941.07,
+        "Costo_MXN": 1851.91
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Casa",
+        "Consumo_kWh": 599.81,
+        "Costo_MXN": 1197.01
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 107.05,
+        "Costo_MXN": 150.93
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 868.78,
+        "Costo_MXN": 1602.16
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 686.65,
+        "Costo_MXN": 1049.58
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Banco",
+        "Consumo_kWh": 555.66,
+        "Costo_MXN": 1072.89
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 762.64,
+        "Costo_MXN": 991.33
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 650.42,
+        "Costo_MXN": 1595.24
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 98.6,
+        "Costo_MXN": 198.82
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 834.91,
+        "Costo_MXN": 2005.58
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 388.95,
+        "Costo_MXN": 509.63
+    },
+    {
+        "Fecha": "2025-02-08",
+        "Tipo": "CFE",
+        "Consumo_kWh": 653.86,
+        "Costo_MXN": 1340.26
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 738.03,
+        "Costo_MXN": 1580.49
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Casa",
+        "Consumo_kWh": 910.37,
+        "Costo_MXN": 1251.94
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 238.23,
+        "Costo_MXN": 371.57
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 427.08,
+        "Costo_MXN": 732.97
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 895.56,
+        "Costo_MXN": 1926.65
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Banco",
+        "Consumo_kWh": 622.23,
+        "Costo_MXN": 1439.96
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 349.0,
+        "Costo_MXN": 523.89
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 490.0,
+        "Costo_MXN": 1130.31
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 502.04,
+        "Costo_MXN": 1136.79
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 231.98,
+        "Costo_MXN": 314.42
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 804.28,
+        "Costo_MXN": 1120.68
+    },
+    {
+        "Fecha": "2025-02-09",
+        "Tipo": "CFE",
+        "Consumo_kWh": 680.99,
+        "Costo_MXN": 1258.42
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 434.35,
+        "Costo_MXN": 862.82
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Casa",
+        "Consumo_kWh": 487.86,
+        "Costo_MXN": 1109.53
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 91.22,
+        "Costo_MXN": 203.05
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 127.37,
+        "Costo_MXN": 241.29
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 586.5,
+        "Costo_MXN": 1332.44
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Banco",
+        "Consumo_kWh": 862.76,
+        "Costo_MXN": 1974.81
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 887.71,
+        "Costo_MXN": 2054.42
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 644.78,
+        "Costo_MXN": 1602.86
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 957.38,
+        "Costo_MXN": 1566.31
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 413.64,
+        "Costo_MXN": 561.49
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 255.32,
+        "Costo_MXN": 384.32
+    },
+    {
+        "Fecha": "2025-02-10",
+        "Tipo": "CFE",
+        "Consumo_kWh": 657.13,
+        "Costo_MXN": 1641.76
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 804.29,
+        "Costo_MXN": 1654.6
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Casa",
+        "Consumo_kWh": 205.52,
+        "Costo_MXN": 287.74
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 876.94,
+        "Costo_MXN": 1984.67
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 188.41,
+        "Costo_MXN": 315.84
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 849.82,
+        "Costo_MXN": 1864.91
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Banco",
+        "Consumo_kWh": 858.85,
+        "Costo_MXN": 1441.34
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 923.37,
+        "Costo_MXN": 1417.08
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 931.58,
+        "Costo_MXN": 1187.59
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 218.32,
+        "Costo_MXN": 360.7
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 201.74,
+        "Costo_MXN": 424.17
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 965.08,
+        "Costo_MXN": 1742.92
+    },
+    {
+        "Fecha": "2025-02-11",
+        "Tipo": "CFE",
+        "Consumo_kWh": 51.72,
+        "Costo_MXN": 121.67
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 692.51,
+        "Costo_MXN": 1199.86
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Casa",
+        "Consumo_kWh": 425.17,
+        "Costo_MXN": 900.82
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 139.04,
+        "Costo_MXN": 301.01
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 739.8,
+        "Costo_MXN": 1825.81
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 150.92,
+        "Costo_MXN": 331.92
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Banco",
+        "Consumo_kWh": 314.58,
+        "Costo_MXN": 731.82
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 569.93,
+        "Costo_MXN": 760.46
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 62.32,
+        "Costo_MXN": 145.26
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 518.57,
+        "Costo_MXN": 748.94
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 622.38,
+        "Costo_MXN": 1275.24
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 971.83,
+        "Costo_MXN": 2030.87
+    },
+    {
+        "Fecha": "2025-02-12",
+        "Tipo": "CFE",
+        "Consumo_kWh": 425.96,
+        "Costo_MXN": 683.45
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 125.34,
+        "Costo_MXN": 305.02
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Casa",
+        "Consumo_kWh": 362.37,
+        "Costo_MXN": 657.49
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 654.77,
+        "Costo_MXN": 1321.03
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 940.34,
+        "Costo_MXN": 1942.33
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 982.88,
+        "Costo_MXN": 2098.75
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Banco",
+        "Consumo_kWh": 483.94,
+        "Costo_MXN": 914.4
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 66.2,
+        "Costo_MXN": 115.28
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 133.32,
+        "Costo_MXN": 221.99
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 937.03,
+        "Costo_MXN": 1370.66
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 89.53,
+        "Costo_MXN": 202.24
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 354.34,
+        "Costo_MXN": 507.25
+    },
+    {
+        "Fecha": "2025-02-13",
+        "Tipo": "CFE",
+        "Consumo_kWh": 351.47,
+        "Costo_MXN": 787.32
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 985.91,
+        "Costo_MXN": 2078.15
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Casa",
+        "Consumo_kWh": 756.07,
+        "Costo_MXN": 1299.64
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 134.23,
+        "Costo_MXN": 184.15
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 629.66,
+        "Costo_MXN": 1048.56
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 458.56,
+        "Costo_MXN": 830.53
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Banco",
+        "Consumo_kWh": 310.56,
+        "Costo_MXN": 755.62
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 380.03,
+        "Costo_MXN": 795.96
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 789.2,
+        "Costo_MXN": 1456.58
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 203.85,
+        "Costo_MXN": 371.55
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 380.84,
+        "Costo_MXN": 836.91
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 525.68,
+        "Costo_MXN": 744.7
+    },
+    {
+        "Fecha": "2025-02-14",
+        "Tipo": "CFE",
+        "Consumo_kWh": 369.39,
+        "Costo_MXN": 810.98
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 207.65,
+        "Costo_MXN": 270.72
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Casa",
+        "Consumo_kWh": 476.68,
+        "Costo_MXN": 865.09
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 537.13,
+        "Costo_MXN": 1014.55
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 826.94,
+        "Costo_MXN": 1766.56
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 629.29,
+        "Costo_MXN": 777.95
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Banco",
+        "Consumo_kWh": 920.79,
+        "Costo_MXN": 2112.08
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 354.08,
+        "Costo_MXN": 845.43
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 232.07,
+        "Costo_MXN": 469.28
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 319.07,
+        "Costo_MXN": 545.03
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 380.7,
+        "Costo_MXN": 613.97
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 373.76,
+        "Costo_MXN": 919.03
+    },
+    {
+        "Fecha": "2025-02-15",
+        "Tipo": "CFE",
+        "Consumo_kWh": 652.24,
+        "Costo_MXN": 1209.45
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 844.6,
+        "Costo_MXN": 1199.44
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Casa",
+        "Consumo_kWh": 378.81,
+        "Costo_MXN": 773.28
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 126.88,
+        "Costo_MXN": 308.31
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 752.35,
+        "Costo_MXN": 1212.52
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 376.34,
+        "Costo_MXN": 830.26
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Banco",
+        "Consumo_kWh": 708.15,
+        "Costo_MXN": 1770.2
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 339.79,
+        "Costo_MXN": 681.36
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 951.23,
+        "Costo_MXN": 1489.94
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 772.08,
+        "Costo_MXN": 1378.5
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 229.44,
+        "Costo_MXN": 409.34
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 449.79,
+        "Costo_MXN": 846.83
+    },
+    {
+        "Fecha": "2025-02-16",
+        "Tipo": "CFE",
+        "Consumo_kWh": 685.19,
+        "Costo_MXN": 1401.22
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 985.06,
+        "Costo_MXN": 1975.29
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Casa",
+        "Consumo_kWh": 641.96,
+        "Costo_MXN": 1304.46
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 598.81,
+        "Costo_MXN": 978.19
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 928.73,
+        "Costo_MXN": 2119.84
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 497.91,
+        "Costo_MXN": 826.53
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Banco",
+        "Consumo_kWh": 771.99,
+        "Costo_MXN": 1713.5
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 595.46,
+        "Costo_MXN": 984.27
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 933.67,
+        "Costo_MXN": 1335.38
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 830.72,
+        "Costo_MXN": 1809.25
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 980.8,
+        "Costo_MXN": 2098.75
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 660.64,
+        "Costo_MXN": 1559.78
+    },
+    {
+        "Fecha": "2025-02-17",
+        "Tipo": "CFE",
+        "Consumo_kWh": 100.5,
+        "Costo_MXN": 217.76
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 695.87,
+        "Costo_MXN": 1072.11
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Casa",
+        "Consumo_kWh": 875.71,
+        "Costo_MXN": 1335.7
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 537.63,
+        "Costo_MXN": 1003.69
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 94.61,
+        "Costo_MXN": 177.28
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 240.46,
+        "Costo_MXN": 364.44
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Banco",
+        "Consumo_kWh": 270.35,
+        "Costo_MXN": 539.05
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 375.25,
+        "Costo_MXN": 822.09
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 905.4,
+        "Costo_MXN": 2104.38
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 487.24,
+        "Costo_MXN": 672.23
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 911.0,
+        "Costo_MXN": 1302.03
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 963.18,
+        "Costo_MXN": 1517.46
+    },
+    {
+        "Fecha": "2025-02-18",
+        "Tipo": "CFE",
+        "Consumo_kWh": 215.96,
+        "Costo_MXN": 525.7
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 844.04,
+        "Costo_MXN": 1878.57
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Casa",
+        "Consumo_kWh": 269.02,
+        "Costo_MXN": 446.47
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 927.27,
+        "Costo_MXN": 1843.23
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 519.35,
+        "Costo_MXN": 1122.73
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 472.27,
+        "Costo_MXN": 669.5
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Banco",
+        "Consumo_kWh": 490.47,
+        "Costo_MXN": 1023.12
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 153.26,
+        "Costo_MXN": 306.49
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 468.71,
+        "Costo_MXN": 782.59
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 106.16,
+        "Costo_MXN": 184.02
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 632.41,
+        "Costo_MXN": 777.45
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 883.97,
+        "Costo_MXN": 2088.64
+    },
+    {
+        "Fecha": "2025-02-19",
+        "Tipo": "CFE",
+        "Consumo_kWh": 154.99,
+        "Costo_MXN": 272.89
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 755.06,
+        "Costo_MXN": 1353.65
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Casa",
+        "Consumo_kWh": 181.1,
+        "Costo_MXN": 392.59
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 220.07,
+        "Costo_MXN": 510.49
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 756.55,
+        "Costo_MXN": 1381.23
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 668.23,
+        "Costo_MXN": 1183.84
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Banco",
+        "Consumo_kWh": 612.41,
+        "Costo_MXN": 976.29
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 544.68,
+        "Costo_MXN": 1156.65
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 863.19,
+        "Costo_MXN": 1278.94
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 601.54,
+        "Costo_MXN": 790.49
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 579.72,
+        "Costo_MXN": 1297.14
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 799.27,
+        "Costo_MXN": 1154.78
+    },
+    {
+        "Fecha": "2025-02-20",
+        "Tipo": "CFE",
+        "Consumo_kWh": 781.69,
+        "Costo_MXN": 1144.29
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 486.35,
+        "Costo_MXN": 1005.66
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Casa",
+        "Consumo_kWh": 96.88,
+        "Costo_MXN": 132.78
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 971.47,
+        "Costo_MXN": 2424.72
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 651.75,
+        "Costo_MXN": 910.07
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 443.87,
+        "Costo_MXN": 947.15
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Banco",
+        "Consumo_kWh": 419.35,
+        "Costo_MXN": 890.26
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 872.13,
+        "Costo_MXN": 1607.09
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 476.7,
+        "Costo_MXN": 1148.71
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 789.07,
+        "Costo_MXN": 1746.23
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 244.02,
+        "Costo_MXN": 377.91
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 498.67,
+        "Costo_MXN": 774.04
+    },
+    {
+        "Fecha": "2025-02-21",
+        "Tipo": "CFE",
+        "Consumo_kWh": 482.02,
+        "Costo_MXN": 684.96
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 602.55,
+        "Costo_MXN": 1080.77
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Casa",
+        "Consumo_kWh": 585.15,
+        "Costo_MXN": 920.01
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 993.13,
+        "Costo_MXN": 1430.24
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 315.87,
+        "Costo_MXN": 438.03
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 671.23,
+        "Costo_MXN": 1223.37
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Banco",
+        "Consumo_kWh": 200.54,
+        "Costo_MXN": 399.39
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 613.35,
+        "Costo_MXN": 850.45
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 134.9,
+        "Costo_MXN": 258.24
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 199.21,
+        "Costo_MXN": 457.22
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 713.56,
+        "Costo_MXN": 903.78
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 509.89,
+        "Costo_MXN": 635.77
+    },
+    {
+        "Fecha": "2025-02-22",
+        "Tipo": "CFE",
+        "Consumo_kWh": 988.77,
+        "Costo_MXN": 1537.22
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 763.44,
+        "Costo_MXN": 1161.93
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Casa",
+        "Consumo_kWh": 850.53,
+        "Costo_MXN": 1068.01
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 854.6,
+        "Costo_MXN": 1491.92
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 826.29,
+        "Costo_MXN": 1966.79
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 532.74,
+        "Costo_MXN": 1095.7
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Banco",
+        "Consumo_kWh": 646.55,
+        "Costo_MXN": 1016.19
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 807.89,
+        "Costo_MXN": 1197.46
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 886.84,
+        "Costo_MXN": 2214.39
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 471.46,
+        "Costo_MXN": 998.11
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 386.85,
+        "Costo_MXN": 915.84
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 912.0,
+        "Costo_MXN": 1779.62
+    },
+    {
+        "Fecha": "2025-02-23",
+        "Tipo": "CFE",
+        "Consumo_kWh": 595.56,
+        "Costo_MXN": 803.96
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 774.17,
+        "Costo_MXN": 1908.44
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Casa",
+        "Consumo_kWh": 64.73,
+        "Costo_MXN": 135.28
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 250.31,
+        "Costo_MXN": 571.18
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 384.76,
+        "Costo_MXN": 561.68
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 300.5,
+        "Costo_MXN": 540.74
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Banco",
+        "Consumo_kWh": 87.94,
+        "Costo_MXN": 144.13
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 842.89,
+        "Costo_MXN": 1551.57
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 342.94,
+        "Costo_MXN": 526.09
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 709.35,
+        "Costo_MXN": 935.49
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 835.4,
+        "Costo_MXN": 1564.67
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 542.69,
+        "Costo_MXN": 881.55
+    },
+    {
+        "Fecha": "2025-02-24",
+        "Tipo": "CFE",
+        "Consumo_kWh": 686.46,
+        "Costo_MXN": 1558.25
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 561.93,
+        "Costo_MXN": 887.73
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Casa",
+        "Consumo_kWh": 708.72,
+        "Costo_MXN": 1522.5
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 290.15,
+        "Costo_MXN": 520.06
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 79.64,
+        "Costo_MXN": 123.27
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 733.99,
+        "Costo_MXN": 1103.83
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Banco",
+        "Consumo_kWh": 279.84,
+        "Costo_MXN": 597.47
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 681.02,
+        "Costo_MXN": 1345.57
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 433.49,
+        "Costo_MXN": 936.19
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 977.92,
+        "Costo_MXN": 2031.04
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 289.12,
+        "Costo_MXN": 701.35
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 539.7,
+        "Costo_MXN": 1306.51
+    },
+    {
+        "Fecha": "2025-02-25",
+        "Tipo": "CFE",
+        "Consumo_kWh": 476.82,
+        "Costo_MXN": 1179.03
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 929.06,
+        "Costo_MXN": 1457.28
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Casa",
+        "Consumo_kWh": 539.13,
+        "Costo_MXN": 1206.0
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 878.0,
+        "Costo_MXN": 1504.03
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 345.49,
+        "Costo_MXN": 613.94
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 842.39,
+        "Costo_MXN": 2102.71
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Banco",
+        "Consumo_kWh": 388.76,
+        "Costo_MXN": 767.24
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 607.75,
+        "Costo_MXN": 1141.8
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 75.8,
+        "Costo_MXN": 149.18
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 953.39,
+        "Costo_MXN": 1949.17
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 127.36,
+        "Costo_MXN": 237.73
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 777.42,
+        "Costo_MXN": 1396.29
+    },
+    {
+        "Fecha": "2025-02-26",
+        "Tipo": "CFE",
+        "Consumo_kWh": 53.9,
+        "Costo_MXN": 131.1
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 784.61,
+        "Costo_MXN": 1734.34
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Casa",
+        "Consumo_kWh": 483.74,
+        "Costo_MXN": 1007.84
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 340.7,
+        "Costo_MXN": 745.08
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 705.9,
+        "Costo_MXN": 1275.58
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 158.06,
+        "Costo_MXN": 205.61
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Banco",
+        "Consumo_kWh": 166.94,
+        "Costo_MXN": 351.49
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 263.41,
+        "Costo_MXN": 540.41
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 409.24,
+        "Costo_MXN": 790.33
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 163.51,
+        "Costo_MXN": 277.27
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 657.17,
+        "Costo_MXN": 844.42
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 887.14,
+        "Costo_MXN": 2003.85
+    },
+    {
+        "Fecha": "2025-02-27",
+        "Tipo": "CFE",
+        "Consumo_kWh": 541.89,
+        "Costo_MXN": 912.72
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 341.81,
+        "Costo_MXN": 435.61
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Casa",
+        "Consumo_kWh": 429.04,
+        "Costo_MXN": 908.79
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 768.26,
+        "Costo_MXN": 1039.58
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 856.26,
+        "Costo_MXN": 2018.52
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 832.3,
+        "Costo_MXN": 1661.54
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Banco",
+        "Consumo_kWh": 876.84,
+        "Costo_MXN": 1166.16
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 685.66,
+        "Costo_MXN": 1507.91
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 686.6,
+        "Costo_MXN": 1494.82
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 300.77,
+        "Costo_MXN": 500.82
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 990.91,
+        "Costo_MXN": 1197.95
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 220.43,
+        "Costo_MXN": 415.12
+    },
+    {
+        "Fecha": "2025-02-28",
+        "Tipo": "CFE",
+        "Consumo_kWh": 186.05,
+        "Costo_MXN": 395.15
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 111.22,
+        "Costo_MXN": 200.03
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Casa",
+        "Consumo_kWh": 317.88,
+        "Costo_MXN": 558.68
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 708.07,
+        "Costo_MXN": 1418.45
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 327.29,
+        "Costo_MXN": 529.33
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 827.25,
+        "Costo_MXN": 1633.71
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Banco",
+        "Consumo_kWh": 439.1,
+        "Costo_MXN": 910.12
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 363.76,
+        "Costo_MXN": 604.22
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 336.07,
+        "Costo_MXN": 598.08
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 628.82,
+        "Costo_MXN": 1463.58
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 676.1,
+        "Costo_MXN": 993.24
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 852.55,
+        "Costo_MXN": 1184.5
+    },
+    {
+        "Fecha": "2025-03-01",
+        "Tipo": "CFE",
+        "Consumo_kWh": 958.97,
+        "Costo_MXN": 1697.73
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 895.28,
+        "Costo_MXN": 1097.4
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Casa",
+        "Consumo_kWh": 582.97,
+        "Costo_MXN": 1239.23
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 377.71,
+        "Costo_MXN": 581.42
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 550.71,
+        "Costo_MXN": 1225.97
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 402.6,
+        "Costo_MXN": 834.17
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Banco",
+        "Consumo_kWh": 331.51,
+        "Costo_MXN": 406.95
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 524.19,
+        "Costo_MXN": 844.45
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 427.33,
+        "Costo_MXN": 547.86
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 822.22,
+        "Costo_MXN": 1755.47
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 284.96,
+        "Costo_MXN": 403.47
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 542.82,
+        "Costo_MXN": 699.85
+    },
+    {
+        "Fecha": "2025-03-02",
+        "Tipo": "CFE",
+        "Consumo_kWh": 724.78,
+        "Costo_MXN": 1451.69
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 638.7,
+        "Costo_MXN": 1342.95
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Casa",
+        "Consumo_kWh": 589.02,
+        "Costo_MXN": 998.69
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 140.01,
+        "Costo_MXN": 189.07
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 739.24,
+        "Costo_MXN": 1195.48
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 821.36,
+        "Costo_MXN": 1409.37
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Banco",
+        "Consumo_kWh": 393.69,
+        "Costo_MXN": 476.56
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 908.9,
+        "Costo_MXN": 1384.77
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 773.03,
+        "Costo_MXN": 1657.73
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 100.4,
+        "Costo_MXN": 141.2
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 372.15,
+        "Costo_MXN": 761.08
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 845.38,
+        "Costo_MXN": 2000.25
+    },
+    {
+        "Fecha": "2025-03-03",
+        "Tipo": "CFE",
+        "Consumo_kWh": 778.62,
+        "Costo_MXN": 1882.39
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 797.55,
+        "Costo_MXN": 1142.16
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Casa",
+        "Consumo_kWh": 53.66,
+        "Costo_MXN": 90.28
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 757.91,
+        "Costo_MXN": 1860.37
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 877.37,
+        "Costo_MXN": 1192.55
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 100.45,
+        "Costo_MXN": 123.18
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Banco",
+        "Consumo_kWh": 596.58,
+        "Costo_MXN": 1211.9
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 795.34,
+        "Costo_MXN": 1904.37
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 513.78,
+        "Costo_MXN": 622.37
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 258.82,
+        "Costo_MXN": 331.43
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 295.13,
+        "Costo_MXN": 686.61
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 155.59,
+        "Costo_MXN": 228.92
+    },
+    {
+        "Fecha": "2025-03-04",
+        "Tipo": "CFE",
+        "Consumo_kWh": 876.08,
+        "Costo_MXN": 1853.14
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 536.9,
+        "Costo_MXN": 1154.76
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Casa",
+        "Consumo_kWh": 708.24,
+        "Costo_MXN": 1612.78
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 569.92,
+        "Costo_MXN": 980.46
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 525.99,
+        "Costo_MXN": 750.15
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 984.59,
+        "Costo_MXN": 1451.91
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Banco",
+        "Consumo_kWh": 272.02,
+        "Costo_MXN": 354.71
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 847.59,
+        "Costo_MXN": 1760.0
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 600.88,
+        "Costo_MXN": 1261.42
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 869.17,
+        "Costo_MXN": 1113.71
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 476.96,
+        "Costo_MXN": 581.22
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 612.1,
+        "Costo_MXN": 1112.71
+    },
+    {
+        "Fecha": "2025-03-05",
+        "Tipo": "CFE",
+        "Consumo_kWh": 969.62,
+        "Costo_MXN": 2423.47
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 379.07,
+        "Costo_MXN": 522.6
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Casa",
+        "Consumo_kWh": 990.99,
+        "Costo_MXN": 1937.25
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 528.11,
+        "Costo_MXN": 808.19
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 932.35,
+        "Costo_MXN": 1131.01
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 732.82,
+        "Costo_MXN": 1790.44
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Banco",
+        "Consumo_kWh": 469.66,
+        "Costo_MXN": 1114.26
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 990.86,
+        "Costo_MXN": 1685.15
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 399.45,
+        "Costo_MXN": 915.44
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 108.57,
+        "Costo_MXN": 197.56
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 991.96,
+        "Costo_MXN": 1635.99
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 817.22,
+        "Costo_MXN": 1212.05
+    },
+    {
+        "Fecha": "2025-03-06",
+        "Tipo": "CFE",
+        "Consumo_kWh": 927.04,
+        "Costo_MXN": 2126.43
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 381.16,
+        "Costo_MXN": 722.22
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Casa",
+        "Consumo_kWh": 853.04,
+        "Costo_MXN": 1276.43
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 663.03,
+        "Costo_MXN": 801.83
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 167.01,
+        "Costo_MXN": 407.57
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 206.43,
+        "Costo_MXN": 284.03
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Banco",
+        "Consumo_kWh": 162.25,
+        "Costo_MXN": 391.66
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 600.9,
+        "Costo_MXN": 1126.0
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 645.18,
+        "Costo_MXN": 1248.0
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 214.17,
+        "Costo_MXN": 405.28
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 541.92,
+        "Costo_MXN": 1117.39
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 780.36,
+        "Costo_MXN": 1073.67
+    },
+    {
+        "Fecha": "2025-03-07",
+        "Tipo": "CFE",
+        "Consumo_kWh": 724.89,
+        "Costo_MXN": 1383.85
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 339.37,
+        "Costo_MXN": 553.58
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Casa",
+        "Consumo_kWh": 731.03,
+        "Costo_MXN": 1713.73
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 260.42,
+        "Costo_MXN": 420.28
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 210.9,
+        "Costo_MXN": 449.88
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 833.5,
+        "Costo_MXN": 1644.54
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Banco",
+        "Consumo_kWh": 910.09,
+        "Costo_MXN": 1205.78
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 61.06,
+        "Costo_MXN": 75.13
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 567.75,
+        "Costo_MXN": 959.47
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 115.34,
+        "Costo_MXN": 186.9
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 353.01,
+        "Costo_MXN": 841.52
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 212.72,
+        "Costo_MXN": 387.4
+    },
+    {
+        "Fecha": "2025-03-08",
+        "Tipo": "CFE",
+        "Consumo_kWh": 608.97,
+        "Costo_MXN": 801.77
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 554.94,
+        "Costo_MXN": 704.36
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Casa",
+        "Consumo_kWh": 481.17,
+        "Costo_MXN": 684.19
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 130.72,
+        "Costo_MXN": 277.96
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 142.91,
+        "Costo_MXN": 338.22
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 585.27,
+        "Costo_MXN": 1002.28
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Banco",
+        "Consumo_kWh": 242.44,
+        "Costo_MXN": 337.31
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 151.28,
+        "Costo_MXN": 212.68
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 122.74,
+        "Costo_MXN": 239.73
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 180.7,
+        "Costo_MXN": 314.54
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 55.34,
+        "Costo_MXN": 104.4
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 755.18,
+        "Costo_MXN": 1493.44
+    },
+    {
+        "Fecha": "2025-03-09",
+        "Tipo": "CFE",
+        "Consumo_kWh": 241.03,
+        "Costo_MXN": 400.46
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 104.03,
+        "Costo_MXN": 182.28
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Casa",
+        "Consumo_kWh": 373.17,
+        "Costo_MXN": 656.59
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 860.13,
+        "Costo_MXN": 1776.2
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 292.97,
+        "Costo_MXN": 693.49
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 406.86,
+        "Costo_MXN": 880.19
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Banco",
+        "Consumo_kWh": 379.68,
+        "Costo_MXN": 637.64
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 77.63,
+        "Costo_MXN": 178.45
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 433.97,
+        "Costo_MXN": 613.82
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 371.58,
+        "Costo_MXN": 705.73
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 174.11,
+        "Costo_MXN": 355.27
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 150.89,
+        "Costo_MXN": 195.72
+    },
+    {
+        "Fecha": "2025-03-10",
+        "Tipo": "CFE",
+        "Consumo_kWh": 57.58,
+        "Costo_MXN": 129.5
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 771.39,
+        "Costo_MXN": 1487.55
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Casa",
+        "Consumo_kWh": 166.56,
+        "Costo_MXN": 274.65
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 427.34,
+        "Costo_MXN": 626.65
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 666.09,
+        "Costo_MXN": 1224.46
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 896.54,
+        "Costo_MXN": 1202.0
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Banco",
+        "Consumo_kWh": 883.02,
+        "Costo_MXN": 1936.89
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 279.0,
+        "Costo_MXN": 436.01
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 880.76,
+        "Costo_MXN": 1421.44
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 103.61,
+        "Costo_MXN": 142.44
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 852.48,
+        "Costo_MXN": 1592.68
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 93.29,
+        "Costo_MXN": 221.23
+    },
+    {
+        "Fecha": "2025-03-11",
+        "Tipo": "CFE",
+        "Consumo_kWh": 408.71,
+        "Costo_MXN": 655.68
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 133.41,
+        "Costo_MXN": 209.06
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Casa",
+        "Consumo_kWh": 624.44,
+        "Costo_MXN": 1473.88
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 476.77,
+        "Costo_MXN": 957.29
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 359.33,
+        "Costo_MXN": 509.45
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 912.19,
+        "Costo_MXN": 1365.69
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Banco",
+        "Consumo_kWh": 536.13,
+        "Costo_MXN": 987.44
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 965.85,
+        "Costo_MXN": 1616.35
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 681.31,
+        "Costo_MXN": 1279.11
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 63.24,
+        "Costo_MXN": 96.5
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 360.81,
+        "Costo_MXN": 559.44
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 943.63,
+        "Costo_MXN": 2026.94
+    },
+    {
+        "Fecha": "2025-03-12",
+        "Tipo": "CFE",
+        "Consumo_kWh": 885.73,
+        "Costo_MXN": 1665.17
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 398.23,
+        "Costo_MXN": 482.55
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Casa",
+        "Consumo_kWh": 706.25,
+        "Costo_MXN": 1522.63
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 499.2,
+        "Costo_MXN": 918.97
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 896.88,
+        "Costo_MXN": 2009.93
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 650.34,
+        "Costo_MXN": 1263.06
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Banco",
+        "Consumo_kWh": 641.61,
+        "Costo_MXN": 1191.97
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 223.62,
+        "Costo_MXN": 300.64
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 764.13,
+        "Costo_MXN": 1628.46
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 101.72,
+        "Costo_MXN": 173.91
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 308.5,
+        "Costo_MXN": 738.33
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 955.74,
+        "Costo_MXN": 2318.82
+    },
+    {
+        "Fecha": "2025-03-13",
+        "Tipo": "CFE",
+        "Consumo_kWh": 994.02,
+        "Costo_MXN": 2404.54
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 85.85,
+        "Costo_MXN": 111.53
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Casa",
+        "Consumo_kWh": 730.13,
+        "Costo_MXN": 935.22
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 766.99,
+        "Costo_MXN": 1561.52
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 644.88,
+        "Costo_MXN": 857.58
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 59.29,
+        "Costo_MXN": 113.51
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Banco",
+        "Consumo_kWh": 784.05,
+        "Costo_MXN": 1713.15
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 929.87,
+        "Costo_MXN": 1831.68
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 596.69,
+        "Costo_MXN": 1417.57
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 985.52,
+        "Costo_MXN": 1911.88
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 309.78,
+        "Costo_MXN": 638.27
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 869.41,
+        "Costo_MXN": 1937.5
+    },
+    {
+        "Fecha": "2025-03-14",
+        "Tipo": "CFE",
+        "Consumo_kWh": 876.07,
+        "Costo_MXN": 2076.69
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 771.43,
+        "Costo_MXN": 1391.74
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Casa",
+        "Consumo_kWh": 787.72,
+        "Costo_MXN": 1882.69
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 934.48,
+        "Costo_MXN": 1840.83
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 587.34,
+        "Costo_MXN": 705.72
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 287.04,
+        "Costo_MXN": 567.72
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Banco",
+        "Consumo_kWh": 471.6,
+        "Costo_MXN": 678.6
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 892.09,
+        "Costo_MXN": 1923.37
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 362.03,
+        "Costo_MXN": 581.92
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 295.59,
+        "Costo_MXN": 575.75
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 503.51,
+        "Costo_MXN": 720.49
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 930.8,
+        "Costo_MXN": 2274.14
+    },
+    {
+        "Fecha": "2025-03-15",
+        "Tipo": "CFE",
+        "Consumo_kWh": 210.05,
+        "Costo_MXN": 361.99
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 71.33,
+        "Costo_MXN": 129.08
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Casa",
+        "Consumo_kWh": 155.78,
+        "Costo_MXN": 197.42
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 200.8,
+        "Costo_MXN": 390.76
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 703.7,
+        "Costo_MXN": 1560.63
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 474.43,
+        "Costo_MXN": 971.64
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Banco",
+        "Consumo_kWh": 946.24,
+        "Costo_MXN": 1221.66
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 889.27,
+        "Costo_MXN": 1085.24
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 174.8,
+        "Costo_MXN": 241.99
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 441.42,
+        "Costo_MXN": 936.3
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 126.45,
+        "Costo_MXN": 282.23
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 882.78,
+        "Costo_MXN": 2089.83
+    },
+    {
+        "Fecha": "2025-03-16",
+        "Tipo": "CFE",
+        "Consumo_kWh": 62.55,
+        "Costo_MXN": 83.1
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 145.78,
+        "Costo_MXN": 330.18
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Casa",
+        "Consumo_kWh": 345.59,
+        "Costo_MXN": 599.86
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 459.49,
+        "Costo_MXN": 764.68
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 414.99,
+        "Costo_MXN": 915.33
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 599.59,
+        "Costo_MXN": 1371.5
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Banco",
+        "Consumo_kWh": 864.0,
+        "Costo_MXN": 1867.63
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 913.09,
+        "Costo_MXN": 1167.77
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 339.14,
+        "Costo_MXN": 667.91
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 981.25,
+        "Costo_MXN": 1847.23
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 295.53,
+        "Costo_MXN": 727.62
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 247.05,
+        "Costo_MXN": 399.35
+    },
+    {
+        "Fecha": "2025-03-17",
+        "Tipo": "CFE",
+        "Consumo_kWh": 207.39,
+        "Costo_MXN": 364.05
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 834.91,
+        "Costo_MXN": 1182.35
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Casa",
+        "Consumo_kWh": 962.62,
+        "Costo_MXN": 1408.25
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 516.44,
+        "Costo_MXN": 885.18
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 480.54,
+        "Costo_MXN": 621.69
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 654.25,
+        "Costo_MXN": 1363.96
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Banco",
+        "Consumo_kWh": 456.9,
+        "Costo_MXN": 660.23
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 714.92,
+        "Costo_MXN": 1042.9
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 452.81,
+        "Costo_MXN": 890.72
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 166.79,
+        "Costo_MXN": 236.91
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 578.97,
+        "Costo_MXN": 748.36
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 830.15,
+        "Costo_MXN": 1155.21
+    },
+    {
+        "Fecha": "2025-03-18",
+        "Tipo": "CFE",
+        "Consumo_kWh": 412.66,
+        "Costo_MXN": 495.55
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 953.82,
+        "Costo_MXN": 1684.69
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Casa",
+        "Consumo_kWh": 946.7,
+        "Costo_MXN": 1968.88
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 249.81,
+        "Costo_MXN": 375.56
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 466.29,
+        "Costo_MXN": 700.4
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 425.77,
+        "Costo_MXN": 599.23
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Banco",
+        "Consumo_kWh": 83.0,
+        "Costo_MXN": 171.41
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 792.36,
+        "Costo_MXN": 1655.92
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 79.24,
+        "Costo_MXN": 156.92
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 751.69,
+        "Costo_MXN": 1524.24
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 560.86,
+        "Costo_MXN": 760.67
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 70.08,
+        "Costo_MXN": 99.0
+    },
+    {
+        "Fecha": "2025-03-19",
+        "Tipo": "CFE",
+        "Consumo_kWh": 288.09,
+        "Costo_MXN": 699.7
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 526.36,
+        "Costo_MXN": 884.01
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Casa",
+        "Consumo_kWh": 658.24,
+        "Costo_MXN": 999.79
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 854.0,
+        "Costo_MXN": 1600.5
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 185.42,
+        "Costo_MXN": 312.02
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 898.08,
+        "Costo_MXN": 1719.12
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Banco",
+        "Consumo_kWh": 876.59,
+        "Costo_MXN": 1134.97
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 280.22,
+        "Costo_MXN": 499.0
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 960.47,
+        "Costo_MXN": 1872.99
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 382.69,
+        "Costo_MXN": 608.67
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 88.28,
+        "Costo_MXN": 153.5
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 936.69,
+        "Costo_MXN": 1820.29
+    },
+    {
+        "Fecha": "2025-03-20",
+        "Tipo": "CFE",
+        "Consumo_kWh": 56.69,
+        "Costo_MXN": 105.61
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 396.67,
+        "Costo_MXN": 750.18
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Casa",
+        "Consumo_kWh": 205.79,
+        "Costo_MXN": 399.71
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 407.62,
+        "Costo_MXN": 1017.47
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 523.47,
+        "Costo_MXN": 1067.64
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 811.38,
+        "Costo_MXN": 1412.56
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Banco",
+        "Consumo_kWh": 896.14,
+        "Costo_MXN": 1211.03
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 316.01,
+        "Costo_MXN": 421.9
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 744.84,
+        "Costo_MXN": 1117.18
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 325.71,
+        "Costo_MXN": 752.32
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 975.67,
+        "Costo_MXN": 2044.37
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 443.84,
+        "Costo_MXN": 545.18
+    },
+    {
+        "Fecha": "2025-03-21",
+        "Tipo": "CFE",
+        "Consumo_kWh": 828.19,
+        "Costo_MXN": 1456.78
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 990.49,
+        "Costo_MXN": 1552.55
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Casa",
+        "Consumo_kWh": 200.43,
+        "Costo_MXN": 421.11
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 303.94,
+        "Costo_MXN": 659.7
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 333.14,
+        "Costo_MXN": 449.42
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 538.32,
+        "Costo_MXN": 1065.66
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Banco",
+        "Consumo_kWh": 608.68,
+        "Costo_MXN": 1494.82
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 658.07,
+        "Costo_MXN": 1143.52
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 318.41,
+        "Costo_MXN": 537.38
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 354.77,
+        "Costo_MXN": 696.31
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 907.01,
+        "Costo_MXN": 2051.1
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 697.46,
+        "Costo_MXN": 1378.72
+    },
+    {
+        "Fecha": "2025-03-22",
+        "Tipo": "CFE",
+        "Consumo_kWh": 228.35,
+        "Costo_MXN": 286.2
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 617.72,
+        "Costo_MXN": 761.42
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Casa",
+        "Consumo_kWh": 770.39,
+        "Costo_MXN": 971.53
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 430.77,
+        "Costo_MXN": 626.97
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 163.03,
+        "Costo_MXN": 325.3
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 592.0,
+        "Costo_MXN": 894.03
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Banco",
+        "Consumo_kWh": 204.49,
+        "Costo_MXN": 246.45
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 846.5,
+        "Costo_MXN": 1109.74
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 920.49,
+        "Costo_MXN": 1471.94
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 162.09,
+        "Costo_MXN": 382.3
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 545.38,
+        "Costo_MXN": 962.12
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 631.07,
+        "Costo_MXN": 1013.97
+    },
+    {
+        "Fecha": "2025-03-23",
+        "Tipo": "CFE",
+        "Consumo_kWh": 739.27,
+        "Costo_MXN": 1371.3
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 225.82,
+        "Costo_MXN": 315.1
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Casa",
+        "Consumo_kWh": 726.49,
+        "Costo_MXN": 1093.09
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 491.77,
+        "Costo_MXN": 713.16
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 343.43,
+        "Costo_MXN": 735.65
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 380.54,
+        "Costo_MXN": 528.93
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Banco",
+        "Consumo_kWh": 529.44,
+        "Costo_MXN": 1107.14
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 360.21,
+        "Costo_MXN": 555.04
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 906.77,
+        "Costo_MXN": 1606.04
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 250.59,
+        "Costo_MXN": 522.24
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 572.66,
+        "Costo_MXN": 756.51
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 995.34,
+        "Costo_MXN": 1443.25
+    },
+    {
+        "Fecha": "2025-03-24",
+        "Tipo": "CFE",
+        "Consumo_kWh": 445.01,
+        "Costo_MXN": 684.9
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 684.27,
+        "Costo_MXN": 1539.97
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Casa",
+        "Consumo_kWh": 623.75,
+        "Costo_MXN": 1466.52
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 663.35,
+        "Costo_MXN": 1510.55
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 322.86,
+        "Costo_MXN": 680.53
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 349.91,
+        "Costo_MXN": 693.57
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Banco",
+        "Consumo_kWh": 984.85,
+        "Costo_MXN": 1804.42
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 176.67,
+        "Costo_MXN": 220.97
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 276.97,
+        "Costo_MXN": 667.31
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 236.89,
+        "Costo_MXN": 378.88
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 900.53,
+        "Costo_MXN": 1246.65
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 952.61,
+        "Costo_MXN": 2017.57
+    },
+    {
+        "Fecha": "2025-03-25",
+        "Tipo": "CFE",
+        "Consumo_kWh": 797.22,
+        "Costo_MXN": 1865.25
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 911.33,
+        "Costo_MXN": 1223.41
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Casa",
+        "Consumo_kWh": 644.65,
+        "Costo_MXN": 773.61
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 640.81,
+        "Costo_MXN": 1592.7
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 715.48,
+        "Costo_MXN": 1297.08
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 891.44,
+        "Costo_MXN": 1695.33
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Banco",
+        "Consumo_kWh": 160.42,
+        "Costo_MXN": 297.2
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 334.39,
+        "Costo_MXN": 554.0
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 858.17,
+        "Costo_MXN": 1558.56
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 257.3,
+        "Costo_MXN": 569.17
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 455.34,
+        "Costo_MXN": 1034.59
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 809.3,
+        "Costo_MXN": 1148.5
+    },
+    {
+        "Fecha": "2025-03-26",
+        "Tipo": "CFE",
+        "Consumo_kWh": 509.83,
+        "Costo_MXN": 639.15
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 353.47,
+        "Costo_MXN": 681.84
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Casa",
+        "Consumo_kWh": 766.18,
+        "Costo_MXN": 1447.96
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 69.7,
+        "Costo_MXN": 164.0
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 414.87,
+        "Costo_MXN": 985.7
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 507.75,
+        "Costo_MXN": 976.71
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Banco",
+        "Consumo_kWh": 935.53,
+        "Costo_MXN": 1668.62
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 849.41,
+        "Costo_MXN": 2046.18
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 299.87,
+        "Costo_MXN": 467.45
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 153.04,
+        "Costo_MXN": 323.41
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 919.17,
+        "Costo_MXN": 1785.36
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 277.84,
+        "Costo_MXN": 598.24
+    },
+    {
+        "Fecha": "2025-03-27",
+        "Tipo": "CFE",
+        "Consumo_kWh": 425.62,
+        "Costo_MXN": 630.88
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 688.76,
+        "Costo_MXN": 1294.64
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Casa",
+        "Consumo_kWh": 803.41,
+        "Costo_MXN": 1130.83
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 925.78,
+        "Costo_MXN": 1294.68
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 657.66,
+        "Costo_MXN": 1153.74
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 891.97,
+        "Costo_MXN": 1367.0
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Banco",
+        "Consumo_kWh": 518.83,
+        "Costo_MXN": 878.08
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 461.03,
+        "Costo_MXN": 592.09
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 116.46,
+        "Costo_MXN": 157.67
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 826.8,
+        "Costo_MXN": 1774.39
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 802.58,
+        "Costo_MXN": 978.09
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 824.35,
+        "Costo_MXN": 998.85
+    },
+    {
+        "Fecha": "2025-03-28",
+        "Tipo": "CFE",
+        "Consumo_kWh": 280.3,
+        "Costo_MXN": 416.48
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 976.41,
+        "Costo_MXN": 1467.05
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Casa",
+        "Consumo_kWh": 701.65,
+        "Costo_MXN": 1489.67
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 460.77,
+        "Costo_MXN": 1065.88
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 794.12,
+        "Costo_MXN": 1889.97
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 371.17,
+        "Costo_MXN": 468.19
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Banco",
+        "Consumo_kWh": 67.99,
+        "Costo_MXN": 117.69
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 227.14,
+        "Costo_MXN": 315.45
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 629.3,
+        "Costo_MXN": 1445.26
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 128.09,
+        "Costo_MXN": 238.25
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 561.68,
+        "Costo_MXN": 947.08
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 473.14,
+        "Costo_MXN": 967.02
+    },
+    {
+        "Fecha": "2025-03-29",
+        "Tipo": "CFE",
+        "Consumo_kWh": 132.46,
+        "Costo_MXN": 249.16
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 360.39,
+        "Costo_MXN": 475.22
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Casa",
+        "Consumo_kWh": 873.9,
+        "Costo_MXN": 1401.41
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 482.9,
+        "Costo_MXN": 1012.04
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 418.44,
+        "Costo_MXN": 786.4
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 840.02,
+        "Costo_MXN": 1956.41
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Banco",
+        "Consumo_kWh": 817.35,
+        "Costo_MXN": 1438.55
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 573.4,
+        "Costo_MXN": 1166.31
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 341.65,
+        "Costo_MXN": 764.67
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 687.29,
+        "Costo_MXN": 1225.79
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 670.57,
+        "Costo_MXN": 1060.7
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 788.22,
+        "Costo_MXN": 1066.78
+    },
+    {
+        "Fecha": "2025-03-30",
+        "Tipo": "CFE",
+        "Consumo_kWh": 915.1,
+        "Costo_MXN": 1357.78
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Local de comercio",
+        "Consumo_kWh": 449.99,
+        "Costo_MXN": 650.97
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Casa",
+        "Consumo_kWh": 735.7,
+        "Costo_MXN": 1498.7
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Bodega",
+        "Consumo_kWh": 220.06,
+        "Costo_MXN": 320.94
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Coppel",
+        "Consumo_kWh": 542.76,
+        "Costo_MXN": 1033.59
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Elektra",
+        "Consumo_kWh": 518.42,
+        "Costo_MXN": 852.46
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Banco",
+        "Consumo_kWh": 841.38,
+        "Costo_MXN": 1136.97
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Farmacia",
+        "Consumo_kWh": 557.14,
+        "Costo_MXN": 1268.21
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Restaurante",
+        "Consumo_kWh": 753.27,
+        "Costo_MXN": 1802.82
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Universidad",
+        "Consumo_kWh": 582.34,
+        "Costo_MXN": 810.96
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "Cantina",
+        "Consumo_kWh": 697.43,
+        "Costo_MXN": 1048.98
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "SAPSAM",
+        "Consumo_kWh": 775.14,
+        "Costo_MXN": 1443.21
+    },
+    {
+        "Fecha": "2025-03-31",
+        "Tipo": "CFE",
+        "Consumo_kWh": 452.66,
+        "Costo_MXN": 1013.07
+    }
+]
+
