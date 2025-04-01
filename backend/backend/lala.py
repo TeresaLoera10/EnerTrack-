@@ -11,7 +11,7 @@ with open("C:/Users/Teresa Loera/Documents/Garza_Proyecto/CONSUMO_E.json", encod
     data = json.load(file)  # Cargar JSON
 
 # Insertar los datos en MongoDB
-if isinstance(data, list):  # Verifica si el JSON es una lista de documentos
+if isinstance(data, list):  
     collection.insert_many(data)
 else:
     collection.insert_one(data)
