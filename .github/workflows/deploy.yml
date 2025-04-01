@@ -1,0 +1,54 @@
+name: Deploy Full Stack App
+
+on:
+  push:
+    branches:
+      - main  # Se ejecuta cuando se sube código a `main`
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar Repositorio
+        uses: actions/checkout@v3
+
+      # Configurar Python y ejecutar el backend
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias del Backend
+        run: |
+          cd backend
+          pip install -r requirements.txt
+
+      - name: Pruebas del Backend
+        run: |
+          cd backend
+          pytest  # Si tienes pruebas automáticas
+
+      # Configurar Node.js y construir el frontend
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Instalar dependencias y construir el Frontend
+        run: |
+          cd frontend
+          npm install
+          npm run build
+
+      # Subir frontend a GitHub Pages (si es una app estática)
+      - name: Desplegar en GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: frontend/build
+
+      # Subir backend a Render/Heroku (opcional)
+      - name: Desplegar Backend en Render
+        run: |
+          curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
